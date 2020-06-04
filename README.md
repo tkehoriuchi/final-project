@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
+## First time pulling
+
+Run `npm install` after downloading the repository for the first time. From then, you should be able to run `ng serve` without any issues.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
